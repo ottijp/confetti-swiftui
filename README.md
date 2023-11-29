@@ -20,7 +20,7 @@ Add this SPM package to your Xcode project.
 
 1. `File` > `Add Package Dependencies...`
 2. Input `https://github.com/ottijp/confetti-swiftui` in search box.
-3. Select `Confetti`.
+3. Select `confetti-swiftui`.
 4. Select `Dependency Rule` to `Up to Next Major Version`. (optional, recommended)
 
 ![add-package](https://github.com/ottijp/confetti-swiftui/assets/7289233/0f972f37-3026-49b3-ad6c-6d9b2982e43a)
